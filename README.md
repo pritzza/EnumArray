@@ -7,6 +7,6 @@ something similar to a feature of it.
 
 It is basically a map between all the values of an enum class and 
 some type. The container is compile time, ordered, contiguous, and immutable,
-with O(1) acceces and no insertion or removal operations.
+with O(1) access and no insertion or removal operations.
 
 C++17
